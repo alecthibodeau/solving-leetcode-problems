@@ -3,7 +3,7 @@
   Run locally: $ node palindrome-number.js <number>
  */
 
-const x = process.argv[2]
+const x = process.argv[2];
 
 var isPalindrome = function(x) {
     x = x.toString();
