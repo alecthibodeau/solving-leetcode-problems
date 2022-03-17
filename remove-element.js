@@ -1,6 +1,6 @@
-/*
-  27. Remove Element
-  Run locally: $ node remove-element.js
+/**
+ * 27. Remove Element
+ * Run locally: $ node remove-element.js
  */
 
 const nums = [1, 2, 3, 3, 3, 4, 5, 6, 3];

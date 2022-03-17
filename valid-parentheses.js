@@ -1,6 +1,6 @@
-/*
-  20. Valid Parentheses
-  Run locally: $ node valid-parentheses.js <string>
+/**
+ * 20. Valid Parentheses
+ * Run locally: $ node valid-parentheses.js <string>
  */
 
 const s = process.argv[2];

@@ -1,6 +1,6 @@
-/*
-  217. Contains Duplicate
-  Run locally: $ node contains-duplicate.js
+/**
+ * 217. Contains Duplicate
+ * Run locally: $ node contains-duplicate.js
  */
 
 const nums = [1, 2, 1, 3, 4];

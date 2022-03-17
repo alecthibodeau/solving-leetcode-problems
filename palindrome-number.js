@@ -1,6 +1,6 @@
-/*
-  9. Palindrome Number
-  Run locally: $ node palindrome-number.js <number>
+/**
+ * 9. Palindrome Number
+ * Run locally: $ node palindrome-number.js <number>
  */
 
 const x = process.argv[2];

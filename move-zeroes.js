@@ -1,6 +1,6 @@
-/*
-  283. Move Zeroes
-  Run locally: $ node move-zeroes.js
+/**
+ * 283. Move Zeroes
+ * Run locally: $ node move-zeroes.js
  */
 
 nums = [0,1,0,3,0,12];
