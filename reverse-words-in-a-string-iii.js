@@ -23,7 +23,7 @@ var reverseWords = function(s) {
 console.log(reverseWords(s));
 
 /**
-  * Success
-  * Runtime: 132 ms, faster than 13.74% of JavaScript online submissions for Reverse Words in a String III.
-  * Memory Usage: 48.7 MB, less than 30.39% of JavaScript online submissions for Reverse Words in a String III.
-  */
+ * Success
+ * Runtime: 132 ms, faster than 13.74% of JavaScript online submissions for Reverse Words in a String III.
+ * Memory Usage: 48.7 MB, less than 30.39% of JavaScript online submissions for Reverse Words in a String III.
+ */
