@@ -11,9 +11,9 @@
 const s = 'A man, a plan, a canal: Panama';
 
 var isPalindrome = function(s) {
-  s = Array.from(s.replace(/[^A-Za-z0-9]/g, '').toLowerCase());
-  for (let i = 0; i < s.length; i++) {
-    if (s[i] !== s[s.length - (i + 1)]) {
+  const sArray = Array.from(s.replace(/[^A-Za-z0-9]/g, '').toLowerCase());
+  for (let i = 0; i < sArray.length; i++) {
+    if (sArray[i] !== sArray[sArray.length - (i + 1)]) {
       return false;
     }
   }
@@ -24,6 +24,6 @@ console.log(isPalindrome(s));
 
 /**
  * Success
- * Runtime: 109 ms, faster than 39.32% of JavaScript online submissions for Valid Palindrome.
- * Memory Usage: 44.9 MB, less than 60.92% of JavaScript online submissions for Valid Palindrome.
+ * Runtime: 114 ms, faster than 34.13% of JavaScript online submissions for Valid Palindrome.
+ * Memory Usage: 44.6 MB, less than 66.05% of JavaScript online submissions for Valid Palindrome.
  */
