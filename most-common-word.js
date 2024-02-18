@@ -50,6 +50,6 @@ console.log(mostCommonWord(paragraph, banned));
 
 /**
  * Accepted
- * Runtime: 57ms Beats 75.60% of users with JavaScript
- * Memory: 50.44 MB Beats 51.85% of users with JavaScript
+ * Runtime: 57 ms, Beats 75.60% of users with JavaScript
+ * Memory: 50.44 MB, Beats 51.85% of users with JavaScript
  */
